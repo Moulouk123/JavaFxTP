@@ -1,0 +1,28 @@
+.text
+{
+-fx-font-size:40pixels;
+	-fx-font-weight:bold;
+	-fx-text-fill:red;	
+}
+.label{
+	-fx-font-size:20pixels;
+	-fx-font-weight:bold;
+	-fx-text-fill:green;
+}
+.welcome{
+	-fx-font-size:20pixels;
+	-fx-font-weight:bold;
+	-fx-text-fill:red;
+}
+.button
+{
+    -fx-background-color: linear-gradient(yellow, green);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+}
+.text{
+-fx-text-fill:#11d30b;
+-fx-font: bold 13pt fantasy;
+}	
+
